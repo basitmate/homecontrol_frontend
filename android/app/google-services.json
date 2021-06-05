@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637861572815",
+    "project_id": "home-automation-71a74",
+    "storage_bucket": "home-automation-71a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637861572815:android:31ec80e9e7826e6e3487ba",
+        "android_client_info": {
+          "package_name": "remotehomecontrol.remote_home_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637861572815-u6sd5oajg5tobetlt4n6e8f4vou0r6rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "remotehomecontrol.remote_home_control",
+            "certificate_hash": "8c86b20c4590dc626d81decc1916762ee5d969d4"
+          }
+        },
+        {
+          "client_id": "637861572815-kk2o6mlobsggdbkei5jrh3k6718p7b01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4J9yH7GNPeQoAmuf5i2qSzaTYmygSz8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637861572815-kk2o6mlobsggdbkei5jrh3k6718p7b01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
