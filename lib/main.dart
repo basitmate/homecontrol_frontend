@@ -216,6 +216,26 @@ class _loggedInHomeState extends State<loggedInHome> {
                   ],
                 ),
               ),
+              SizedBox(height: 20),
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 40),
+                child: Row(
+                  children: <Widget>[
+                    Expanded(
+                      child: FloatingActionButton(
+                        onPressed: () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => controlPage('Bathroom')),
+                          );
+                        },
+                        tooltip: 'Play',
+                        child: const Icon(Icons.mic),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
             ]
         ),
       ),
